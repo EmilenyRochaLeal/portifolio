@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+.logo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration: none;
+    cursor: pointer;
+    color: #9B86BD;
+    font-weight: bold;
+    background-color: #111;
+}
+.logo h1{
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    margin: 0;
+}
+.navLinks{
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    font-size: 18px; 
+    line-height: 25px;
+    border-radius: 4px;
+    gap: 10px;
+}
+.link{
+    text-decoration: none;
+    color: #9B86BD;
+}
